@@ -1,0 +1,421 @@
+2023-10-24 21:16:34,235 - scraper - INFO - Current number of users: 3032
+2023-10-24 21:17:09,621 - scraper - INFO - Current number of users: 3032
+2023-10-24 21:19:32,140 - scraper - INFO - Current number of users: 3032
+2023-10-24 21:20:17,878 - scraper - INFO - Current number of users: 3032
+2023-10-24 21:20:20,800 - scraper - INFO - Processing year: 2016
+2023-10-24 21:20:58,059 - scraper - INFO - Year: 2016, Book: 111/120, User: 1/20, UserID: uunamu
+2023-10-24 21:33:14,595 - scraper - INFO - Year: 2016, Book: 111/120, User: 2/20, UserID: 4062579537
+2023-10-24 21:33:16,595 - scraper - INFO - Year: 2016, Book: 111/120, User: 3/20, UserID: 5552
+2023-10-24 21:33:17,437 - scraper - ERROR - User [5552] already exists in the database
+2023-10-24 21:33:17,438 - scraper - INFO - Year: 2016, Book: 111/120, User: 4/20, UserID: 4062579537
+2023-10-24 21:33:18,050 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:33:18,181 - scraper - INFO - Year: 2016, Book: 111/120, User: 5/20, UserID: gunsosk
+2023-10-24 21:33:18,218 - scraper - ERROR - User [gunsosk] already exists in the database
+2023-10-24 21:33:18,218 - scraper - INFO - Year: 2016, Book: 111/120, User: 6/20, UserID: 4062579537
+2023-10-24 21:33:18,383 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:33:18,384 - scraper - INFO - Year: 2016, Book: 111/120, User: 7/20, UserID: kd-bluebacks
+2023-10-24 21:36:28,213 - scraper - INFO - Year: 2016, Book: 111/120, User: 8/20, UserID: 4062579537
+2023-10-24 21:36:28,464 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:36:28,465 - scraper - INFO - Year: 2016, Book: 111/120, User: 9/20, UserID: ganpuku
+2023-10-24 21:37:38,225 - scraper - INFO - Year: 2016, Book: 111/120, User: 10/20, UserID: 4062579537
+2023-10-24 21:37:38,578 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:37:38,579 - scraper - INFO - Year: 2016, Book: 111/120, User: 11/20, UserID: kfeldsper
+2023-10-24 21:37:38,787 - scraper - ERROR - User [kfeldsper] already exists in the database
+2023-10-24 21:37:38,788 - scraper - INFO - Year: 2016, Book: 111/120, User: 12/20, UserID: 4062579537
+2023-10-24 21:37:38,909 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:37:38,910 - scraper - INFO - Year: 2016, Book: 111/120, User: 13/20, UserID: houroukingyo
+2023-10-24 21:37:38,976 - scraper - ERROR - User [houroukingyo] already exists in the database
+2023-10-24 21:37:38,977 - scraper - INFO - Year: 2016, Book: 111/120, User: 14/20, UserID: 4062579537
+2023-10-24 21:37:39,526 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:37:39,528 - scraper - INFO - Year: 2016, Book: 111/120, User: 15/20, UserID: haruka2015k
+2023-10-24 21:43:22,213 - scraper - INFO - Year: 2016, Book: 111/120, User: 16/20, UserID: 4062579537
+2023-10-24 21:43:22,333 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:43:22,333 - scraper - INFO - Year: 2016, Book: 111/120, User: 17/20, UserID: wa9sa1bi
+2023-10-24 21:43:22,584 - scraper - ERROR - User [wa9sa1bi] already exists in the database
+2023-10-24 21:43:22,584 - scraper - INFO - Year: 2016, Book: 111/120, User: 18/20, UserID: 4062579537
+2023-10-24 21:43:22,962 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:43:22,962 - scraper - INFO - Year: 2016, Book: 111/120, User: 19/20, UserID: fbf2a3fd5a337f97
+2023-10-24 21:45:13,901 - scraper - INFO - Year: 2016, Book: 111/120, User: 20/20, UserID: 4062579537
+2023-10-24 21:45:14,038 - scraper - ERROR - User [4062579537] already exists in the database
+2023-10-24 21:45:18,073 - scraper - INFO - Year: 2016, Book: 112/120, User: 1/20, UserID: marimo-ton
+2023-10-24 21:45:18,157 - scraper - ERROR - User [marimo-ton] already exists in the database
+2023-10-24 21:45:18,158 - scraper - INFO - Year: 2016, Book: 112/120, User: 2/20, UserID: 4150120439
+2023-10-24 21:45:19,383 - scraper - INFO - Year: 2016, Book: 112/120, User: 3/20, UserID: a57041c551926b71
+2023-10-24 21:45:19,420 - scraper - ERROR - User [a57041c551926b71] already exists in the database
+2023-10-24 21:45:19,421 - scraper - INFO - Year: 2016, Book: 112/120, User: 4/20, UserID: 4150120439
+2023-10-24 21:45:19,471 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:19,471 - scraper - INFO - Year: 2016, Book: 112/120, User: 5/20, UserID: mochi-mochimochi
+2023-10-24 21:45:19,534 - scraper - ERROR - User [mochi-mochimochi] already exists in the database
+2023-10-24 21:45:19,534 - scraper - INFO - Year: 2016, Book: 112/120, User: 6/20, UserID: 4150120439
+2023-10-24 21:45:19,590 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:19,591 - scraper - INFO - Year: 2016, Book: 112/120, User: 7/20, UserID: arimoto1007
+2023-10-24 21:45:19,734 - scraper - ERROR - User [arimoto1007] already exists in the database
+2023-10-24 21:45:19,735 - scraper - INFO - Year: 2016, Book: 112/120, User: 8/20, UserID: 4150120439
+2023-10-24 21:45:19,842 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:19,843 - scraper - INFO - Year: 2016, Book: 112/120, User: 9/20, UserID: a2d705976f4921cf
+2023-10-24 21:45:20,075 - scraper - ERROR - User [a2d705976f4921cf] already exists in the database
+2023-10-24 21:45:20,076 - scraper - INFO - Year: 2016, Book: 112/120, User: 10/20, UserID: 4150120439
+2023-10-24 21:45:20,257 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:20,259 - scraper - INFO - Year: 2016, Book: 112/120, User: 11/20, UserID: dobinn024
+2023-10-24 21:45:20,357 - scraper - ERROR - User [dobinn024] already exists in the database
+2023-10-24 21:45:20,357 - scraper - INFO - Year: 2016, Book: 112/120, User: 12/20, UserID: 4150120439
+2023-10-24 21:45:20,427 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:20,428 - scraper - INFO - Year: 2016, Book: 112/120, User: 13/20, UserID: 16033252b261432b
+2023-10-24 21:45:20,473 - scraper - ERROR - User [16033252b261432b] already exists in the database
+2023-10-24 21:45:20,473 - scraper - INFO - Year: 2016, Book: 112/120, User: 14/20, UserID: 4150120439
+2023-10-24 21:45:20,654 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:20,654 - scraper - INFO - Year: 2016, Book: 112/120, User: 15/20, UserID: norisuke0715
+2023-10-24 21:45:20,706 - scraper - ERROR - User [norisuke0715] already exists in the database
+2023-10-24 21:45:20,706 - scraper - INFO - Year: 2016, Book: 112/120, User: 16/20, UserID: 4150120439
+2023-10-24 21:45:20,780 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:20,781 - scraper - INFO - Year: 2016, Book: 112/120, User: 17/20, UserID: noguri
+2023-10-24 21:45:20,903 - scraper - ERROR - User [noguri] already exists in the database
+2023-10-24 21:45:20,903 - scraper - INFO - Year: 2016, Book: 112/120, User: 18/20, UserID: 4150120439
+2023-10-24 21:45:21,014 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:45:21,015 - scraper - INFO - Year: 2016, Book: 112/120, User: 19/20, UserID: kintbasnyoi
+2023-10-24 21:51:32,851 - scraper - INFO - Year: 2016, Book: 112/120, User: 20/20, UserID: 4150120439
+2023-10-24 21:51:32,893 - scraper - ERROR - User [4150120439] already exists in the database
+2023-10-24 21:51:35,412 - scraper - INFO - Year: 2016, Book: 113/120, User: 1/20, UserID: vilureef
+2023-10-24 21:51:35,667 - scraper - ERROR - User [vilureef] already exists in the database
+2023-10-24 21:51:35,668 - scraper - INFO - Year: 2016, Book: 113/120, User: 2/20, UserID: 4163904255
+2023-10-24 21:51:37,162 - scraper - INFO - Year: 2016, Book: 113/120, User: 3/20, UserID: koha-ru
+2023-10-24 21:51:37,670 - scraper - ERROR - User [koha-ru] already exists in the database
+2023-10-24 21:51:37,670 - scraper - INFO - Year: 2016, Book: 113/120, User: 4/20, UserID: 4163904255
+2023-10-24 21:51:38,280 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:51:38,280 - scraper - INFO - Year: 2016, Book: 113/120, User: 5/20, UserID: yaj1102
+2023-10-24 21:51:38,403 - scraper - ERROR - User [yaj1102] already exists in the database
+2023-10-24 21:51:38,404 - scraper - INFO - Year: 2016, Book: 113/120, User: 6/20, UserID: 4163904255
+2023-10-24 21:51:38,582 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:51:38,582 - scraper - INFO - Year: 2016, Book: 113/120, User: 7/20, UserID: naofuu3
+2023-10-24 21:51:39,191 - scraper - ERROR - User [naofuu3] already exists in the database
+2023-10-24 21:51:39,191 - scraper - INFO - Year: 2016, Book: 113/120, User: 8/20, UserID: 4163904255
+2023-10-24 21:51:39,443 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:51:39,443 - scraper - INFO - Year: 2016, Book: 113/120, User: 9/20, UserID: yukibooks148
+2023-10-24 21:51:39,517 - scraper - ERROR - User [yukibooks148] already exists in the database
+2023-10-24 21:51:39,518 - scraper - INFO - Year: 2016, Book: 113/120, User: 10/20, UserID: 4163904255
+2023-10-24 21:51:39,559 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:51:39,560 - scraper - INFO - Year: 2016, Book: 113/120, User: 11/20, UserID: skmt1988
+2023-10-24 21:51:39,817 - scraper - ERROR - User [skmt1988] already exists in the database
+2023-10-24 21:51:39,817 - scraper - INFO - Year: 2016, Book: 113/120, User: 12/20, UserID: 4163904255
+2023-10-24 21:51:39,914 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:51:39,914 - scraper - INFO - Year: 2016, Book: 113/120, User: 13/20, UserID: brazil-log
+2023-10-24 21:55:52,916 - scraper - INFO - Year: 2016, Book: 113/120, User: 14/20, UserID: 4163904255
+2023-10-24 21:55:52,954 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:55:52,955 - scraper - INFO - Year: 2016, Book: 113/120, User: 15/20, UserID: sealer
+2023-10-24 21:57:28,199 - scraper - INFO - Year: 2016, Book: 113/120, User: 16/20, UserID: 4163904255
+2023-10-24 21:57:28,275 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 21:57:28,275 - scraper - INFO - Year: 2016, Book: 113/120, User: 17/20, UserID: hiro8940
+2023-10-24 22:04:16,527 - scraper - INFO - Year: 2016, Book: 113/120, User: 18/20, UserID: 4163904255
+2023-10-24 22:04:16,580 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 22:04:16,581 - scraper - INFO - Year: 2016, Book: 113/120, User: 19/20, UserID: cho7
+2023-10-24 22:05:17,712 - scraper - INFO - Year: 2016, Book: 113/120, User: 20/20, UserID: 4163904255
+2023-10-24 22:05:17,846 - scraper - ERROR - User [4163904255] already exists in the database
+2023-10-24 22:05:21,172 - scraper - INFO - Year: 2016, Book: 114/120, User: 1/20, UserID: a57041c551926b71
+2023-10-24 22:05:21,385 - scraper - ERROR - User [a57041c551926b71] already exists in the database
+2023-10-24 22:05:21,385 - scraper - INFO - Year: 2016, Book: 114/120, User: 2/20, UserID: 4620108227
+2023-10-24 22:05:23,513 - scraper - INFO - Year: 2016, Book: 114/120, User: 3/20, UserID: 22253249
+2023-10-24 22:05:23,750 - scraper - ERROR - User [22253249] already exists in the database
+2023-10-24 22:05:23,751 - scraper - INFO - Year: 2016, Book: 114/120, User: 4/20, UserID: 4620108227
+2023-10-24 22:05:23,813 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:23,813 - scraper - INFO - Year: 2016, Book: 114/120, User: 5/20, UserID: fuku2828
+2023-10-24 22:05:23,883 - scraper - ERROR - User [fuku2828] already exists in the database
+2023-10-24 22:05:23,884 - scraper - INFO - Year: 2016, Book: 114/120, User: 6/20, UserID: 4620108227
+2023-10-24 22:05:24,306 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:24,307 - scraper - INFO - Year: 2016, Book: 114/120, User: 7/20, UserID: otamcontbeats
+2023-10-24 22:05:24,338 - scraper - ERROR - User [otamcontbeats] already exists in the database
+2023-10-24 22:05:24,338 - scraper - INFO - Year: 2016, Book: 114/120, User: 8/20, UserID: 4620108227
+2023-10-24 22:05:24,380 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:24,381 - scraper - INFO - Year: 2016, Book: 114/120, User: 9/20, UserID: paleblued0t
+2023-10-24 22:05:24,567 - scraper - ERROR - User [paleblued0t] already exists in the database
+2023-10-24 22:05:24,569 - scraper - INFO - Year: 2016, Book: 114/120, User: 10/20, UserID: 4620108227
+2023-10-24 22:05:24,611 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:24,612 - scraper - INFO - Year: 2016, Book: 114/120, User: 11/20, UserID: kazuyou2614
+2023-10-24 22:05:24,646 - scraper - ERROR - User [kazuyou2614] already exists in the database
+2023-10-24 22:05:24,646 - scraper - INFO - Year: 2016, Book: 114/120, User: 12/20, UserID: 4620108227
+2023-10-24 22:05:24,726 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:24,727 - scraper - INFO - Year: 2016, Book: 114/120, User: 13/20, UserID: kw19
+2023-10-24 22:05:24,989 - scraper - ERROR - User [kw19] already exists in the database
+2023-10-24 22:05:24,989 - scraper - INFO - Year: 2016, Book: 114/120, User: 14/20, UserID: 4620108227
+2023-10-24 22:05:25,055 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:25,056 - scraper - INFO - Year: 2016, Book: 114/120, User: 15/20, UserID: 68f9019aa9a627ae
+2023-10-24 22:05:25,098 - scraper - ERROR - User [68f9019aa9a627ae] already exists in the database
+2023-10-24 22:05:25,099 - scraper - INFO - Year: 2016, Book: 114/120, User: 16/20, UserID: 4620108227
+2023-10-24 22:05:25,176 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:25,177 - scraper - INFO - Year: 2016, Book: 114/120, User: 17/20, UserID: petit1130
+2023-10-24 22:05:25,201 - scraper - ERROR - User [petit1130] already exists in the database
+2023-10-24 22:05:25,201 - scraper - INFO - Year: 2016, Book: 114/120, User: 18/20, UserID: 4620108227
+2023-10-24 22:05:25,238 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:25,238 - scraper - INFO - Year: 2016, Book: 114/120, User: 19/20, UserID: sakakimao99
+2023-10-24 22:05:25,265 - scraper - ERROR - User [sakakimao99] already exists in the database
+2023-10-24 22:05:25,265 - scraper - INFO - Year: 2016, Book: 114/120, User: 20/20, UserID: 4620108227
+2023-10-24 22:05:25,314 - scraper - ERROR - User [4620108227] already exists in the database
+2023-10-24 22:05:27,559 - scraper - INFO - Year: 2016, Book: 115/120, User: 1/20, UserID: 88982f0fc80970db
+2023-10-24 22:05:27,582 - scraper - ERROR - User [88982f0fc80970db] already exists in the database
+2023-10-24 22:05:27,585 - scraper - INFO - Year: 2016, Book: 115/120, User: 2/20, UserID: 4478068445
+2023-10-24 22:05:29,283 - scraper - INFO - Year: 2016, Book: 115/120, User: 3/20, UserID: nikaku11
+2023-10-24 22:05:29,599 - scraper - ERROR - User [nikaku11] already exists in the database
+2023-10-24 22:05:29,600 - scraper - INFO - Year: 2016, Book: 115/120, User: 4/20, UserID: 4478068445
+2023-10-24 22:05:29,656 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:05:29,656 - scraper - INFO - Year: 2016, Book: 115/120, User: 5/20, UserID: 8d932afe566b5c75
+2023-10-24 22:05:29,924 - scraper - ERROR - User [8d932afe566b5c75] already exists in the database
+2023-10-24 22:05:29,924 - scraper - INFO - Year: 2016, Book: 115/120, User: 6/20, UserID: 4478068445
+2023-10-24 22:05:30,148 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:05:30,149 - scraper - INFO - Year: 2016, Book: 115/120, User: 7/20, UserID: fk8h5126
+2023-10-24 22:05:30,279 - scraper - ERROR - User [fk8h5126] already exists in the database
+2023-10-24 22:05:30,280 - scraper - INFO - Year: 2016, Book: 115/120, User: 8/20, UserID: 4478068445
+2023-10-24 22:05:30,528 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:05:30,528 - scraper - INFO - Year: 2016, Book: 115/120, User: 9/20, UserID: sametama
+2023-10-24 22:06:35,627 - scraper - INFO - Year: 2016, Book: 115/120, User: 10/20, UserID: 4478068445
+2023-10-24 22:06:35,774 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:06:35,774 - scraper - INFO - Year: 2016, Book: 115/120, User: 11/20, UserID: innteoyaji815
+2023-10-24 22:06:35,826 - scraper - ERROR - User [innteoyaji815] already exists in the database
+2023-10-24 22:06:35,827 - scraper - INFO - Year: 2016, Book: 115/120, User: 12/20, UserID: 4478068445
+2023-10-24 22:06:35,893 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:06:35,893 - scraper - INFO - Year: 2016, Book: 115/120, User: 13/20, UserID: fmiwa
+2023-10-24 22:06:35,962 - scraper - ERROR - User [fmiwa] already exists in the database
+2023-10-24 22:06:35,962 - scraper - INFO - Year: 2016, Book: 115/120, User: 14/20, UserID: 4478068445
+2023-10-24 22:06:36,044 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:06:36,044 - scraper - INFO - Year: 2016, Book: 115/120, User: 15/20, UserID: rissole
+2023-10-24 22:17:53,645 - scraper - INFO - Year: 2016, Book: 115/120, User: 16/20, UserID: 4478068445
+2023-10-24 22:17:53,685 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:17:53,685 - scraper - INFO - Year: 2016, Book: 115/120, User: 17/20, UserID: taroimotaroimo
+2023-10-24 22:17:53,708 - scraper - ERROR - User [taroimotaroimo] already exists in the database
+2023-10-24 22:17:53,709 - scraper - INFO - Year: 2016, Book: 115/120, User: 18/20, UserID: 4478068445
+2023-10-24 22:17:53,809 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:17:53,809 - scraper - INFO - Year: 2016, Book: 115/120, User: 19/20, UserID: toutohtou
+2023-10-24 22:18:02,762 - scraper - INFO - Year: 2016, Book: 115/120, User: 20/20, UserID: 4478068445
+2023-10-24 22:18:02,825 - scraper - ERROR - User [4478068445] already exists in the database
+2023-10-24 22:18:05,681 - scraper - INFO - Year: 2016, Book: 116/120, User: 1/20, UserID: dolphin43
+2023-10-24 22:18:05,763 - scraper - ERROR - User [dolphin43] already exists in the database
+2023-10-24 22:18:05,763 - scraper - INFO - Year: 2016, Book: 116/120, User: 2/20, UserID: 4022648031
+2023-10-24 22:18:07,464 - scraper - INFO - Year: 2016, Book: 116/120, User: 3/20, UserID: tikyukko
+2023-10-24 22:18:07,548 - scraper - ERROR - User [tikyukko] already exists in the database
+2023-10-24 22:18:07,549 - scraper - INFO - Year: 2016, Book: 116/120, User: 4/20, UserID: 4022648031
+2023-10-24 22:18:07,628 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:07,628 - scraper - INFO - Year: 2016, Book: 116/120, User: 5/20, UserID: nasuzak
+2023-10-24 22:18:07,690 - scraper - ERROR - User [nasuzak] already exists in the database
+2023-10-24 22:18:07,691 - scraper - INFO - Year: 2016, Book: 116/120, User: 6/20, UserID: 4022648031
+2023-10-24 22:18:07,958 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:07,959 - scraper - INFO - Year: 2016, Book: 116/120, User: 7/20, UserID: gaf00761
+2023-10-24 22:18:08,167 - scraper - ERROR - User [gaf00761] already exists in the database
+2023-10-24 22:18:08,167 - scraper - INFO - Year: 2016, Book: 116/120, User: 8/20, UserID: 4022648031
+2023-10-24 22:18:08,224 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,224 - scraper - INFO - Year: 2016, Book: 116/120, User: 9/20, UserID: dobinn024
+2023-10-24 22:18:08,281 - scraper - ERROR - User [dobinn024] already exists in the database
+2023-10-24 22:18:08,281 - scraper - INFO - Year: 2016, Book: 116/120, User: 10/20, UserID: 4022648031
+2023-10-24 22:18:08,310 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,310 - scraper - INFO - Year: 2016, Book: 116/120, User: 11/20, UserID: kurutan
+2023-10-24 22:18:08,356 - scraper - ERROR - User [kurutan] already exists in the database
+2023-10-24 22:18:08,357 - scraper - INFO - Year: 2016, Book: 116/120, User: 12/20, UserID: 4022648031
+2023-10-24 22:18:08,454 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,454 - scraper - INFO - Year: 2016, Book: 116/120, User: 13/20, UserID: cdff64
+2023-10-24 22:18:08,481 - scraper - ERROR - User [cdff64] already exists in the database
+2023-10-24 22:18:08,481 - scraper - INFO - Year: 2016, Book: 116/120, User: 14/20, UserID: 4022648031
+2023-10-24 22:18:08,605 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,605 - scraper - INFO - Year: 2016, Book: 116/120, User: 15/20, UserID: aqz4115
+2023-10-24 22:18:08,667 - scraper - ERROR - User [aqz4115] already exists in the database
+2023-10-24 22:18:08,668 - scraper - INFO - Year: 2016, Book: 116/120, User: 16/20, UserID: 4022648031
+2023-10-24 22:18:08,728 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,728 - scraper - INFO - Year: 2016, Book: 116/120, User: 17/20, UserID: 9c373daa20c500ff
+2023-10-24 22:18:08,789 - scraper - ERROR - User [9c373daa20c500ff] already exists in the database
+2023-10-24 22:18:08,789 - scraper - INFO - Year: 2016, Book: 116/120, User: 18/20, UserID: 4022648031
+2023-10-24 22:18:08,875 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:08,876 - scraper - INFO - Year: 2016, Book: 116/120, User: 19/20, UserID: siratamazenzai
+2023-10-24 22:18:08,907 - scraper - ERROR - User [siratamazenzai] already exists in the database
+2023-10-24 22:18:08,907 - scraper - INFO - Year: 2016, Book: 116/120, User: 20/20, UserID: 4022648031
+2023-10-24 22:18:08,935 - scraper - ERROR - User [4022648031] already exists in the database
+2023-10-24 22:18:11,240 - scraper - INFO - Year: 2016, Book: 117/120, User: 1/20, UserID: 59543ed7a6a333ed
+2023-10-24 22:18:11,275 - scraper - ERROR - User [59543ed7a6a333ed] already exists in the database
+2023-10-24 22:18:11,275 - scraper - INFO - Year: 2016, Book: 117/120, User: 2/20, UserID: 4893096176
+2023-10-24 22:18:13,781 - scraper - INFO - Year: 2016, Book: 117/120, User: 3/20, UserID: rsb81945
+2023-10-24 22:18:13,878 - scraper - ERROR - User [rsb81945] already exists in the database
+2023-10-24 22:18:13,878 - scraper - INFO - Year: 2016, Book: 117/120, User: 4/20, UserID: 4893096176
+2023-10-24 22:18:13,906 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:13,907 - scraper - INFO - Year: 2016, Book: 117/120, User: 5/20, UserID: joyful-joyful
+2023-10-24 22:18:13,945 - scraper - ERROR - User [joyful-joyful] already exists in the database
+2023-10-24 22:18:13,946 - scraper - INFO - Year: 2016, Book: 117/120, User: 6/20, UserID: 4893096176
+2023-10-24 22:18:14,008 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:14,009 - scraper - INFO - Year: 2016, Book: 117/120, User: 7/20, UserID: karuyu4
+2023-10-24 22:18:14,077 - scraper - ERROR - User [karuyu4] already exists in the database
+2023-10-24 22:18:14,077 - scraper - INFO - Year: 2016, Book: 117/120, User: 8/20, UserID: 4893096176
+2023-10-24 22:18:14,384 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:14,385 - scraper - INFO - Year: 2016, Book: 117/120, User: 9/20, UserID: musamika
+2023-10-24 22:18:15,297 - scraper - ERROR - User [musamika] already exists in the database
+2023-10-24 22:18:15,297 - scraper - INFO - Year: 2016, Book: 117/120, User: 10/20, UserID: 4893096176
+2023-10-24 22:18:15,423 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:15,424 - scraper - INFO - Year: 2016, Book: 117/120, User: 11/20, UserID: 090aecb73d4a16e7
+2023-10-24 22:18:15,461 - scraper - ERROR - User [090aecb73d4a16e7] already exists in the database
+2023-10-24 22:18:15,462 - scraper - INFO - Year: 2016, Book: 117/120, User: 12/20, UserID: 4893096176
+2023-10-24 22:18:15,498 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:15,498 - scraper - INFO - Year: 2016, Book: 117/120, User: 13/20, UserID: iroha678
+2023-10-24 22:18:15,606 - scraper - ERROR - User [iroha678] already exists in the database
+2023-10-24 22:18:15,606 - scraper - INFO - Year: 2016, Book: 117/120, User: 14/20, UserID: 4893096176
+2023-10-24 22:18:15,629 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:15,630 - scraper - INFO - Year: 2016, Book: 117/120, User: 15/20, UserID: ecf449d6bf484f6a
+2023-10-24 22:18:15,680 - scraper - ERROR - User [ecf449d6bf484f6a] already exists in the database
+2023-10-24 22:18:15,681 - scraper - INFO - Year: 2016, Book: 117/120, User: 16/20, UserID: 4893096176
+2023-10-24 22:18:16,678 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:16,680 - scraper - INFO - Year: 2016, Book: 117/120, User: 17/20, UserID: waikoloa
+2023-10-24 22:18:16,982 - scraper - ERROR - User [waikoloa] already exists in the database
+2023-10-24 22:18:16,983 - scraper - INFO - Year: 2016, Book: 117/120, User: 18/20, UserID: 4893096176
+2023-10-24 22:18:17,067 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:18:17,067 - scraper - INFO - Year: 2016, Book: 117/120, User: 19/20, UserID: bamabama
+2023-10-24 22:22:32,681 - scraper - INFO - Year: 2016, Book: 117/120, User: 20/20, UserID: 4893096176
+2023-10-24 22:22:32,810 - scraper - ERROR - User [4893096176] already exists in the database
+2023-10-24 22:22:35,312 - scraper - INFO - Year: 2016, Book: 118/120, User: 1/20, UserID: naotonaoto0512
+2023-10-24 22:22:35,337 - scraper - ERROR - User [naotonaoto0512] already exists in the database
+2023-10-24 22:22:35,338 - scraper - INFO - Year: 2016, Book: 118/120, User: 2/20, UserID: 4478066493
+2023-10-24 22:22:38,367 - scraper - INFO - Year: 2016, Book: 118/120, User: 3/20, UserID: mugimugi264270
+2023-10-24 22:22:38,481 - scraper - ERROR - User [mugimugi264270] already exists in the database
+2023-10-24 22:22:38,482 - scraper - INFO - Year: 2016, Book: 118/120, User: 4/20, UserID: 4478066493
+2023-10-24 22:22:38,541 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:22:38,542 - scraper - INFO - Year: 2016, Book: 118/120, User: 5/20, UserID: masa10
+2023-10-24 22:22:38,754 - scraper - ERROR - User [masa10] already exists in the database
+2023-10-24 22:22:38,755 - scraper - INFO - Year: 2016, Book: 118/120, User: 6/20, UserID: 4478066493
+2023-10-24 22:22:38,834 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:22:38,834 - scraper - INFO - Year: 2016, Book: 118/120, User: 7/20, UserID: 1ba60a4fe01659ce
+2023-10-24 22:23:02,179 - scraper - INFO - Year: 2016, Book: 118/120, User: 8/20, UserID: 4478066493
+2023-10-24 22:23:02,226 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:23:02,227 - scraper - INFO - Year: 2016, Book: 118/120, User: 9/20, UserID: houroukingyo
+2023-10-24 22:23:02,266 - scraper - ERROR - User [houroukingyo] already exists in the database
+2023-10-24 22:23:02,267 - scraper - INFO - Year: 2016, Book: 118/120, User: 10/20, UserID: 4478066493
+2023-10-24 22:23:02,384 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:23:02,384 - scraper - INFO - Year: 2016, Book: 118/120, User: 11/20, UserID: yuuki20010423
+2023-10-24 22:23:09,331 - scraper - INFO - Year: 2016, Book: 118/120, User: 12/20, UserID: 4478066493
+2023-10-24 22:23:09,366 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:23:09,366 - scraper - INFO - Year: 2016, Book: 118/120, User: 13/20, UserID: hitomi22
+2023-10-24 22:28:45,442 - scraper - INFO - Year: 2016, Book: 118/120, User: 14/20, UserID: 4478066493
+2023-10-24 22:28:45,707 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:28:45,708 - scraper - INFO - Year: 2016, Book: 118/120, User: 15/20, UserID: moco0825
+2023-10-24 22:28:45,804 - scraper - ERROR - User [moco0825] already exists in the database
+2023-10-24 22:28:45,804 - scraper - INFO - Year: 2016, Book: 118/120, User: 16/20, UserID: 4478066493
+2023-10-24 22:28:45,897 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:28:45,898 - scraper - INFO - Year: 2016, Book: 118/120, User: 17/20, UserID: minerva-48
+2023-10-24 22:38:30,607 - scraper - INFO - Year: 2016, Book: 118/120, User: 18/20, UserID: 4478066493
+2023-10-24 22:38:30,847 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:38:30,848 - scraper - INFO - Year: 2016, Book: 118/120, User: 19/20, UserID: gluce
+2023-10-24 22:40:04,409 - scraper - INFO - Year: 2016, Book: 118/120, User: 20/20, UserID: 4478066493
+2023-10-24 22:40:04,524 - scraper - ERROR - User [4478066493] already exists in the database
+2023-10-24 22:40:04,529 - scraper - ERROR - Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=118.0.5993.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DCFE8EF2+54786]
+	(No symbol) [0x00007FF7DCF55612]
+	(No symbol) [0x00007FF7DCE0A64B]
+	(No symbol) [0x00007FF7DCDF8617]
+	(No symbol) [0x00007FF7DCDF8290]
+	(No symbol) [0x00007FF7DCE0C541]
+	(No symbol) [0x00007FF7DCE843FF]
+	(No symbol) [0x00007FF7DCE6BC43]
+	(No symbol) [0x00007FF7DCE40941]
+	(No symbol) [0x00007FF7DCE41B84]
+	GetHandleVerifier [0x00007FF7DD337F52+3524194]
+	GetHandleVerifier [0x00007FF7DD38D800+3874576]
+	GetHandleVerifier [0x00007FF7DD385D7F+3843215]
+	GetHandleVerifier [0x00007FF7DD085086+694166]
+	(No symbol) [0x00007FF7DCF60A88]
+	(No symbol) [0x00007FF7DCF5CA94]
+	(No symbol) [0x00007FF7DCF5CBC2]
+	(No symbol) [0x00007FF7DCF4CC83]
+	BaseThreadInitThunk [0x00007FFEA0A7257D+29]
+	RtlUserThreadStart [0x00007FFEA20AAA78+40]
+
+2023-10-24 22:40:04,535 - scraper - ERROR - Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=118.0.5993.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DCFE8EF2+54786]
+	(No symbol) [0x00007FF7DCF55612]
+	(No symbol) [0x00007FF7DCE0A64B]
+	(No symbol) [0x00007FF7DCDF8617]
+	(No symbol) [0x00007FF7DCDF8290]
+	(No symbol) [0x00007FF7DCE0C541]
+	(No symbol) [0x00007FF7DCE843FF]
+	(No symbol) [0x00007FF7DCE6BC43]
+	(No symbol) [0x00007FF7DCE40941]
+	(No symbol) [0x00007FF7DCE41B84]
+	GetHandleVerifier [0x00007FF7DD337F52+3524194]
+	GetHandleVerifier [0x00007FF7DD38D800+3874576]
+	GetHandleVerifier [0x00007FF7DD385D7F+3843215]
+	GetHandleVerifier [0x00007FF7DD085086+694166]
+	(No symbol) [0x00007FF7DCF60A88]
+	(No symbol) [0x00007FF7DCF5CA94]
+	(No symbol) [0x00007FF7DCF5CBC2]
+	(No symbol) [0x00007FF7DCF4CC83]
+	BaseThreadInitThunk [0x00007FFEA0A7257D+29]
+	RtlUserThreadStart [0x00007FFEA20AAA78+40]
+
+2023-10-24 22:57:00,267 - scraper - INFO - Current number of users: 3059
+2023-10-24 22:57:06,153 - scraper - INFO - Processing year: 2016
+2023-10-24 22:57:41,767 - scraper - INFO - Year: 2016, Book: 119/120, User: 1/20, UserID: seigoto23
+2023-10-24 22:57:42,058 - scraper - ERROR - User [seigoto23] already exists in the database
+2023-10-24 22:57:42,059 - scraper - INFO - Year: 2016, Book: 119/120, User: 2/20, UserID: 442210098X
+2023-10-24 22:57:43,767 - scraper - INFO - Year: 2016, Book: 119/120, User: 3/20, UserID: 94722d7de61f1259
+2023-10-24 22:57:43,809 - scraper - ERROR - User [94722d7de61f1259] already exists in the database
+2023-10-24 22:57:43,809 - scraper - INFO - Year: 2016, Book: 119/120, User: 4/20, UserID: 442210098X
+2023-10-24 22:57:43,865 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:57:43,865 - scraper - INFO - Year: 2016, Book: 119/120, User: 5/20, UserID: 0fd4ebd9c6f92857
+2023-10-24 22:58:30,670 - scraper - INFO - Year: 2016, Book: 119/120, User: 6/20, UserID: 442210098X
+2023-10-24 22:58:30,704 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:30,705 - scraper - INFO - Year: 2016, Book: 119/120, User: 7/20, UserID: 619e6a86162ffbfe
+2023-10-24 22:58:30,780 - scraper - ERROR - User [619e6a86162ffbfe] already exists in the database
+2023-10-24 22:58:30,781 - scraper - INFO - Year: 2016, Book: 119/120, User: 8/20, UserID: 442210098X
+2023-10-24 22:58:30,837 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:30,839 - scraper - INFO - Year: 2016, Book: 119/120, User: 9/20, UserID: dgktwr4
+2023-10-24 22:58:46,103 - scraper - INFO - Year: 2016, Book: 119/120, User: 10/20, UserID: 442210098X
+2023-10-24 22:58:46,201 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:46,202 - scraper - INFO - Year: 2016, Book: 119/120, User: 11/20, UserID: noguri
+2023-10-24 22:58:46,242 - scraper - ERROR - User [noguri] already exists in the database
+2023-10-24 22:58:46,243 - scraper - INFO - Year: 2016, Book: 119/120, User: 12/20, UserID: 442210098X
+2023-10-24 22:58:46,420 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:46,421 - scraper - INFO - Year: 2016, Book: 119/120, User: 13/20, UserID: kachiku326
+2023-10-24 22:58:46,519 - scraper - ERROR - User [kachiku326] already exists in the database
+2023-10-24 22:58:46,520 - scraper - INFO - Year: 2016, Book: 119/120, User: 14/20, UserID: 442210098X
+2023-10-24 22:58:46,631 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:46,632 - scraper - INFO - Year: 2016, Book: 119/120, User: 15/20, UserID: 5a65d2d48c23c8f9
+2023-10-24 22:58:46,990 - scraper - ERROR - User [5a65d2d48c23c8f9] already exists in the database
+2023-10-24 22:58:46,991 - scraper - INFO - Year: 2016, Book: 119/120, User: 16/20, UserID: 442210098X
+2023-10-24 22:58:47,063 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:47,063 - scraper - INFO - Year: 2016, Book: 119/120, User: 17/20, UserID: saicrips
+2023-10-24 22:58:58,049 - scraper - INFO - Year: 2016, Book: 119/120, User: 18/20, UserID: 442210098X
+2023-10-24 22:58:58,114 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:58:58,115 - scraper - INFO - Year: 2016, Book: 119/120, User: 19/20, UserID: kojiman0722
+2023-10-24 22:58:58,227 - scraper - ERROR - User [kojiman0722] already exists in the database
+2023-10-24 22:58:58,228 - scraper - INFO - Year: 2016, Book: 119/120, User: 20/20, UserID: 442210098X
+2023-10-24 22:58:58,319 - scraper - ERROR - User [442210098X] already exists in the database
+2023-10-24 22:59:00,705 - scraper - INFO - Year: 2016, Book: 120/120, User: 1/20, UserID: 5552
+2023-10-24 22:59:00,796 - scraper - ERROR - User [5552] already exists in the database
+2023-10-24 22:59:00,797 - scraper - INFO - Year: 2016, Book: 120/120, User: 2/20, UserID: 4101274711
+2023-10-24 22:59:01,803 - scraper - INFO - Year: 2016, Book: 120/120, User: 3/20, UserID: nejidon
+2023-10-24 22:59:01,972 - scraper - ERROR - User [nejidon] already exists in the database
+2023-10-24 22:59:01,972 - scraper - INFO - Year: 2016, Book: 120/120, User: 4/20, UserID: 4101274711
+2023-10-24 22:59:02,026 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 22:59:02,026 - scraper - INFO - Year: 2016, Book: 120/120, User: 5/20, UserID: 3812puking
+2023-10-24 22:59:02,057 - scraper - ERROR - User [3812puking] already exists in the database
+2023-10-24 22:59:02,058 - scraper - INFO - Year: 2016, Book: 120/120, User: 6/20, UserID: 4101274711
+2023-10-24 22:59:02,117 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 22:59:02,118 - scraper - INFO - Year: 2016, Book: 120/120, User: 7/20, UserID: arinkoyuichikun
+2023-10-24 22:59:02,341 - scraper - ERROR - User [arinkoyuichikun] already exists in the database
+2023-10-24 22:59:02,342 - scraper - INFO - Year: 2016, Book: 120/120, User: 8/20, UserID: 4101274711
+2023-10-24 22:59:02,403 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 22:59:02,404 - scraper - INFO - Year: 2016, Book: 120/120, User: 9/20, UserID: eseve
+2023-10-24 22:59:02,469 - scraper - ERROR - User [eseve] already exists in the database
+2023-10-24 22:59:02,470 - scraper - INFO - Year: 2016, Book: 120/120, User: 10/20, UserID: 4101274711
+2023-10-24 22:59:02,529 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 22:59:02,530 - scraper - INFO - Year: 2016, Book: 120/120, User: 11/20, UserID: youshiga
+2023-10-24 22:59:02,701 - scraper - ERROR - User [youshiga] already exists in the database
+2023-10-24 22:59:02,702 - scraper - INFO - Year: 2016, Book: 120/120, User: 12/20, UserID: 4101274711
+2023-10-24 22:59:02,736 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 22:59:02,737 - scraper - INFO - Year: 2016, Book: 120/120, User: 13/20, UserID: tatsuchaba
+2023-10-24 23:01:02,517 - scraper - INFO - Year: 2016, Book: 120/120, User: 14/20, UserID: 4101274711
+2023-10-24 23:01:02,632 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 23:01:02,632 - scraper - INFO - Year: 2016, Book: 120/120, User: 15/20, UserID: knkt09222
+2023-10-24 23:34:44,615 - scraper - INFO - Year: 2016, Book: 120/120, User: 16/20, UserID: 4101274711
+2023-10-24 23:34:44,758 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 23:34:44,759 - scraper - INFO - Year: 2016, Book: 120/120, User: 17/20, UserID: mickel
+2023-10-24 23:44:09,855 - scraper - INFO - Year: 2016, Book: 120/120, User: 18/20, UserID: 4101274711
+2023-10-24 23:44:09,924 - scraper - ERROR - User [4101274711] already exists in the database
+2023-10-24 23:44:09,925 - scraper - INFO - Year: 2016, Book: 120/120, User: 19/20, UserID: san33
+2023-10-24 23:50:08,452 - scraper - INFO - Year: 2016, Book: 120/120, User: 20/20, UserID: 4101274711
+2023-10-24 23:50:08,516 - scraper - ERROR - User [4101274711] already exists in the database

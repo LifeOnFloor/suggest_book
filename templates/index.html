@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>つぎはなによむ？</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="title title--main">つぎはなによむ？</h1>
+        <form action="/" method="post" class="form form--search">
+            <div class="field">
+                <div class="control">
+                    <input class="input" type="text" name="search" placeholder="著者やタイトルによって検索できます">
+                </div>
+            </div>
+            <input type="hidden" name="action_type" value="search">
+            <div class="control">
+                <button class="button button--search">🔍</button>
+            </div>
+        </form>
+
+        <section id="result_view">
+            {%if search is not none%}
+            <div class="search-status">
+                {%if first_search is true%}
+                <p>『{{predicted_title}}』で検索中</p>
+                {%else%}
+                <p>{{predicted_title}}</p>
+                {%endif%}
+            </div>
+            {%endif%}
+
+            {% if not results and not error %}
+            <div class="card-container">
+
+                <!-- Card 1: About the Site -->
+                <div class="card">
+                    <h2 class="title title--clickable">つぎはなによむ？</h2>
+                    <p class="text text--description">『つぎはなによむ？』は、気になる本を探すためのサイトです。</p>
+                </div>
+
+                <!-- Card 2: How to Use -->
+                <div class="card">
+                    <h2 class="title title--clickable">使い方</h2>
+                    <p class="text text--description"><span class="how-to-use">１．本のタイトルや著者名を入力。</span></p>
+                    <p class="text text--description"><span
+                            class="how-to-use">２．関連する本が表示されるので、タイトルをクリック。</span>（探している本がなければキーワードを変えてやり直してください。）</p>
+                    <p class="text text--description"><span class="how-to-use">３．タイトルをクリックすると「似た本」が表示されます。</span></p>
+                </div>
+
+                <!-- Card 3: Features -->
+                <div class="card">
+                    <h2 class="title title--clickable">特徴</h2>
+                    <ul class="text text--description">
+                        <li>売り上げの多い本ほど精度がよいです。</li>
+                    </ul>
+                </div>
+
+                <!-- Card 4: Note -->
+                <div class="card">
+                    <h2 class="title title--clickable">お知らせ</h2>
+                    <p class="text text--description">『Amazonで購入』を使用しての購入により、本サイトに収益が入ります。</p>
+                </div>
+            </div>
+            {% endif %}
+
+            {%if results is false%}
+            <div class="error-box">
+                <h2>検索結果がありません</h2>
+                <div class="error-message">
+                    {{error}}
+                </div>
+                <a href="/">検索ページに戻る</a>
+            </div>
+
+            {%else%}
+            <div class="card-container">
+                {%for result in results%}
+                <div class="card card--result">
+                    <form action="/" method="post">
+                        <input type="hidden" name="action_type" value="book_title_click">
+                        <input type="hidden" name="search" value="{{result.book_id}}">
+                        <button type="submit" class="title title--clickable">{{result.title}}</button>
+                    </form>
+                    <p class="text text--authors">{{result.authors}}</p>
+                    <p class="text text--date">{{result.published_date}}</p>
+                    <p class="text text--page">{{result.page}}ページ</p>
+                    <p class="text text--description">{{result.description}}</p>
+                    <a href="{{result.amazon_link}}" target="_blank" class="button button--amazon">Amazonで購入</a>
+                </div>
+                {%endfor%}
+            </div>
+            {%endif%}
+        </section>
+    </div>
+    <footer class="footer">
+        <div class="footer-container">
+            <p class="text text--footer">© {{year}} <a href="https://twitter.com/@LifeOnFloor">@LifeOnFloor</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>
